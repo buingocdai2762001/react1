@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "name": "Bui Dai",
+        "tel": "23456789",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Chu Ha",
+        "tel": "987654",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Van Cao",
+        "tel": "141314231",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Minh Chi",
+        "tel": "80989484",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Thanh Long",
+        "tel": "6247623",
+        "permission": 3
+    }
+]
